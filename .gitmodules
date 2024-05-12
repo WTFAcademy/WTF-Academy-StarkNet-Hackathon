@@ -1,0 +1,3 @@
+[submodule "sbt-contract"]
+	path = sbt-contract
+	url = https://github.com/kongtaoxing/WTF-SBT-cairo.git
